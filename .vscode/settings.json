@@ -1,0 +1,12 @@
+{
+    "code-runner.executorMap": {
+        "lua": "tic80 $fullFileName",
+    },
+    
+        "code-runner.cwd": "C:\\Program Files\\tic80",
+        "code-runner.saveFileBeforeRun": true,
+        "code-runner.clearPreviousOutput": true,
+        "code-runner.ignoreSelection": true,
+        "editor-tabSize": 2
+    
+}
